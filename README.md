@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monjurul Islam Shoron
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,ReactJS,PHP,MY SQL,LARAVEL
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,ReactJS,Python,Django,SQL, SQL Lite,PHP,MY SQL,LARAVEL
 - 💞️ I’m looking to collaborate on Some company
 - 📫 How to reach me Call me This Number : 017712247612 OR Mail me : islamshoron639@gmail.com
 
